@@ -82,15 +82,15 @@ cv2.destroyAllWindows()
 
 ### Input Grayscale Image and Color Image
 
-![output](op1.png)
+![output](op1.PNG)
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-![output](op2.png)
+![output](op2.PNG)
 
 ### Histogram Equalization of Grayscale Image
 
-![output](op3.png)
+![output](op3.PNG)
 
 ## Result:
 
